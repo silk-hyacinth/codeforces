@@ -2,7 +2,7 @@
 # 9 may 2022
 # https://codeforces.com/contest/263/problem/C
 
-def solve(memo) -> list:
+def solve(memo) -> None:
     '''
     :param memo: dict of each int
     :return: the order of the circle
